@@ -1,0 +1,148 @@
+{
+    "name": "Peter Jhon Esquilla",
+    "logo_name": "lunaafryaa",
+    "role": "Software Engineer",
+    "about": {
+        "sections": {
+            "professional-info": {
+                "title": "professional-info",
+                "icon": "icons/info-professional.svg",
+                "info": {
+                    "experience": {
+                        "title": "experience",
+                        "description": "<br>I am a seasoned software engineer with over 9 years of experience in multiple industries. My diverse background has equipped me with a unique skill set that spans across web development, custom app development, web3, blockchain, and a lot more. As a result, I possess a wealth of knowledge that allows me to take a holistic approach to software engineering, making me a valuable asset to any organization.<br><br> Throughout my career, I have demonstrated an unwavering commitment to excellence, and my work has been characterized by a strong attention to details and a results-driven mindset. I have consistently delivered high-quality projects that have exceeded expectations, earning me a reputation as a dependable and skilled software engineer. I am also a strong collaborator, able to work effectively with diverse, cross-functional teams to ensure that projects goals are met on time and within budget.<br><br> Over the years, I have learned that the key to success in this industry is continuous learning and adaptation. I stay up-to-date with the latest technologies and industry trends, and I am always on the lookout for ways to improve my skills and knowledge. I have also come to understand the importance of communication and empathy in this industry, recognizing that it is crucial to be able to understand and communicate effectively with stakeholders and end-users to ensure that projects are successful."
+                    },
+                    "hard-skills": {
+                        "title": "hard-skills",
+                        "description": "<br>As a seasoned software engineer, I have quite a diverse and include proficiency in multiple programming languages and frameworks, such as Java, Python, JavaScript, Node.js, React, C++, C#, Solidity, and a lot more. I also possess experience with various software development methodologies, including Agile and Scrum, as well as a strong understanding of software architechtures and design patterns.<br><br> In addition. I have a strong grasp of blockchain technology and web3 development, with hands-on experience in developing smart contracts, decentralized applications(dApps), and blockchain-based solutions. I am also well-versed in web development, specifically in back-end development, though I can handle front-end just fine as well. I also have experience with various databases, such as MySQL, MongoDB, and PostgreSQL.<br><br> I also posseess experience with cloud platforms, such as AWS, and Google Cloud Platform, as well as DevOps tools and practices, such as Docker, Kubernetes, and Jenkins.<br><br> Overall, my diverse background and expertise in various programming languages, software development methodologies, and technologies makes me a well-rounded software engineer capable of tackling complex projects and delivering high-quality solutions."
+                    },
+                    "soft-skills": {
+                        "title": "soft-skills",
+                        "description": "<br>Throughout my career, my soft-skills include excellent communication and collaboration skills. I am able to work effectively with diverse, cross-functional teams, build strong relationships with stakeholders, and communicate technical concepts to non-technical individuals in a clear and concise manner.<br><br> In addition, I possess a strong problem-solving and critical thinking skills, enabling me to identify and analyze complex problems and develop effective solutions. I also have a results-driven mindset, ensuring that project goals are met on time and within budget, while maintaining a strong attention to detail.<br><br> My adaptability and continuous learning mindset are also important soft-skills that make me a valuable asset to any organization. I am able to quickly learn and adapt to new technologies and methodologies, ensuring that I stay up-to-date with the latest industry trends and best practices. You also take an active approach to personal and professional development, seeking out opportunities to expand my knowledge and skill set.<br><br> Finally, my strong work ethic and commitment to excellence are also important soft skills. I take pride in delivering high-quality work and are dedicated to achieving the best possible results. I am also able to manage my time effectively, prioritizing tasks and meeting deadlines without sacrificing quality.<br><br> Overall, my combination of excellent communication and collaboration skills, problem-solving and critical thinking abilities, adaptability, continuous learning mindset, strong work ethic, and commitment to excellence makes me a highly valuable and sought-after software engineer in today's fast-paced and ever-changing technology industry."
+                    }
+                }
+            },
+            "personal-info": {
+                "title": "personal-info",
+                "icon": "icons/info-personal.svg",
+                "info": { 
+                    "bio": {
+                        "title": "bio",
+                        "description": "<br> About me <br> I've been a software engineer for more than 9 years, and I'm passionate about creating effective solutions to challenging issues. My area of expertise is web development, web3, crypto and a few more. I also have a track record of completing projects on schedule and on budget.<br><br> Over my career, I have obtained expertise working in many businesses. I am quite familiar with agile development approaches, and I enjoy working with cross-functional teams to make sure that every project is successful.<br><br> In addition to my technical abilities, I have excellent communication skills and take pleasure in forming bonds with clients and stakeholders. I'm always looking for fresh challenges and chances to develop professionally.<br><br> Please get in touch if you're seeking for a talented software developer who can produce excellent results. I'm eager to get to know you and see how we can collaborate to help you realize your objectives."
+                    },
+                    "interests": {
+                        "title": "interests",
+                        "description": "<br>I have a diverse range of interests that relate to my profession. Some of my interests include exploring new programming languages and technologies, experimenting with new frameworks and tools, and contributing anonymously to open-source projects.<br><br> I also have a keen interest in emerging technologies, such as blockchain, artificial intelligence, and machine learning, and enjoy learning about how these technologies can be applied to real-world problems.<br><br> Beyond my technical interests, I am also passionate about using technology to create positive social change. I enjoy volunteering my time and experttise to support social causes, such as environmental sustainability, education, healthcare, by using technology to develop innovative solutions.<br<br> In addition, I also have interests that relate to personal growth and development, such as pursuing hobbies or activities that promote mental and physical well-being. These interests includes meditation, reading, or participating in outdoor activities.<br><br> Overall, my diverse range of interests reflects to my curiosity and passion for technology, as well as my commitment to making a positive impact on the world arround me. My interests also demonstrate my well-rounded nature and my ability to bring a unique perspective to any project or team that I work with."
+                    },
+                    "education": {
+                        "title": "education",
+                        "description": "<br>I finished Bachelor of Science in Information Technology with a double major in Project Management and Software Engineering. I would like to pursue a Master's degree in Information Technology, with a focus on Software Engineering. But I am still looking for a company that will support me in this endeavor while I work for them.",
+                        "files": {
+                            "high-school": "I have been in 'STI Colleges: Bacoor'...",
+                            "university": "The university..."
+                        }
+                    }
+                }
+            },
+            "hobbies-info": {
+                "title": "hobbies-info",
+                "icon": "icons/info-hobbies.svg",
+                "info": {
+                    "sports": {
+                        "title": "sports",
+                        "description": "<br>I enjoy watching sports, especially basketball. I also am an avid fan of E-Sports."
+                    },
+                    "favorite-games": {
+                        "title": "favorite-games",
+                        "description": "<br>My career started with my passion and love for games. I am a gamer and I love playing games. I also love watching gameplays and streams. I do not have a favorite game but if you were to ask I would probably say the Persona Series and Pokemon."
+                    }
+                }
+            }
+        }
+    },
+    "contacts": {
+        "direct": {
+            "title": "contacts",
+            "sources": {
+                "email": "lunafreyadev@gmail.com",
+                "phone": "+639615060950"
+            }
+        },
+        "social": {
+            "github": {
+                "title": "Github profile",
+                "url": "https://github.com/",
+                "user": "xPtrrj"
+            },
+            "facebook": {
+                "title": "Facebook profile",
+                "url": "https://facebook.com/",
+                "user": "peterjhon.esquilla"
+            },
+            "twitter": {
+                "title": "Twitter account",
+                "url": "https://twitter.com/",
+                "user": "username"
+            }
+        },
+        "find_me_also_in": {
+            "title": "find-me-also-in",
+            "sources": {
+                "youtube": {
+                    "title": "YouTube channel",
+                    "url": "https://www.youtube.com/",
+                    "user": "username"
+                },
+                "gurushots": {
+                    "title": "GuruShots profile",
+                    "url": "https://gurushots.com/",
+                    "user": "username"
+                },
+                "instagram": {
+                    "title": "Instagram account",
+                    "url": "https://instagram.com/",
+                    "user": "username"
+                },
+                "twitch": {
+                    "title": "Twitch profile",
+                    "url": "https://twitch.com/",
+                    "user": "username"
+                }
+            }
+        }
+    },
+    "gists": {
+        "1": "c63970585797bb7746ebc8b87a0127fa",
+        "2": "85f758ec05ef2d54292d9eccb1870451"
+    },
+    "projects": {
+        "1": {
+            "title": "_wolf-gordon",
+            "description": "A custom E-Commerce website for Wolf Gordon, a leading manufacturer of high-end wallcoverings and fabrics.",
+            "img": "/images/projects/wolfgordon.png",
+            "tech": ["Vue", "CSS", "PHP"],
+            "url": "https://www.wolfgordon.com/"
+        },
+        "2": {
+            "title": "_nelsons-gin",
+            "description": "A custom E-Commerce website for Nelson's Gin, a premium gin brand from the UK.",
+            "img": "/images/projects/nelsons.png",
+            "tech": ["React", "PHP"],
+            "url": "https://www.nelsonsdistillery.co.uk/"
+        },
+        "3": {
+            "title": "_philpacs",
+            "description": "Multiple Automation Projects for Local Government Units in the Philippines.",
+            "img": "/images/projects/philpacs.png",
+            "tech": ["PHP", "React", "C++", "C#"],
+            "url": "https://philpacs.com/"
+        },
+        "4": {
+            "title": "_pegaxy",
+            "description": "An NFT Game built on the Polygon Network",
+            "img": "/images/projects/pegaxy.png",
+            "tech": ["Solidity", "React"],
+            "url": "https://pegaxy.io/"
+        }
+    }
+}
