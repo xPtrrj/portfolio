@@ -27,7 +27,7 @@ export default defineNuxtConfig({
         { hid: 'description', name: 'description', content: 'Peter Jhon Esquilla - Portfolio.' },
         { hid: 'og:title', property: 'og:title', content: siteTitle },
         { hid: 'og:description', property: 'og:description', content: 'Peter Jhon Esquilla - Portfolio' },
-        { hid: 'og:image', property: 'og:image', content: 'demo-share.jpg' },
+        { hid: 'og:image', property: 'og:image', content: 'peter-demo.jpg' },
         { name: 'theme-color', content: '#010C15' },
         // ...
       ],
